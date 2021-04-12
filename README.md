@@ -3,6 +3,7 @@
 
 ## My Github Stats .-.
 ![Mads Github Stats](https://github-readme-stats.vercel.app/api?username=MadDoesGithub&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadDoesGithub&show_icons=true&locale=en&layout=compact&theme=dracula" alt="MadDoesGithub" />
 
 ## projects i'm currently working on :o
 
