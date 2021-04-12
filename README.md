@@ -6,7 +6,7 @@
 
 ## projects i'm currently working on :o
 
-> Bootstrap (CSS Framework :D)
+> learning bootstrap (CSS Framework :D)
 
 > To-Do List in JS
 
@@ -25,7 +25,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-# If you like what I do, mabey consider buying me a coffee/tea 🥺👉👈
+# If you like what I do, mabey consider buying me a coffee/tea 👉👈
 <a href="https://ko-fi.com/madthedev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 Made with ❤️ by Mad uwu
