@@ -4,7 +4,7 @@
 ## My Github Stats .-.
 ![Mads Github Stats](https://github-readme-stats.vercel.app/api?username=MadDoesGithub&show_icons=true&theme=dracula)
 
-## Projects I'm Currently Working On :o
+## projects i'm currently working on :o
 
 > Bootstrap (CSS Framework :D)
 
@@ -12,12 +12,12 @@
 
 > Hosting Company
 
-> Simple Java Plugins :>
+> simple java plugins :>
 
-## Contact Me -w-
+## contact me -w-
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Mad#0495
 
-## Tools I Use owo
+## tools i use owo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -25,7 +25,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-# If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+# If you like what I do, mabey consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 Made with ❤️ by Mad uwu
