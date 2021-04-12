@@ -2,8 +2,8 @@
 [![Website](https://img.shields.io/website?label=MadTheDev.me&style=for-the-badge&url=https://MadTheDev.me)](https://MadTheDev.me) >-< The website is currently under development!
 
 ## My Github Stats .-.
-![Mads Github Stats](https://github-readme-stats.vercel.app/api?username=MadDoesGithub&show_icons=true&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadDoesGithub&show_icons=true&locale=en&layout=compact&theme=dracula" alt="MadDoesGithub" />
+![Mads Github Stats](https://github-readme-stats.vercel.app/api?username=MadDoesGithub&show_icons=true&theme=dracula)  
+![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs?username=MadDoesGithub&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 ## projects i'm currently working on :o
 
