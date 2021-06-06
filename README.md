@@ -7,24 +7,27 @@
 
 ## Projects i'm currently working on :o
 
-> learning bootstrap (CSS Framework :D)
+> coding a discord bot, Madison!
 
-> To-Do List in JS
+> Running a hosting company
 
-> Hosting Company
+> Actively learning Javascript, and PHP
 
-> Simple java plugins :>
+> Coding some simple Java plugins
+
+> Doing 3D work
 
 ## Contact me -w-
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Mad#0495
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Mad#2007
 
-## Tools i use owo
+## Tools i use 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></code>
 
 
