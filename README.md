@@ -1,19 +1,17 @@
 ### Hola 👋, I'm Mad!
-[![Website](https://img.shields.io/website?label=MadTheDev.me&style=for-the-badge&url=https://MadTheDev.me)](https://MadTheDev.me) >-< The website is currently under development!
+[![Website](https://img.shields.io/website?label=MadTheDev.me&style=for-the-badge&url=https://MadTheDev.me)](https://MadTheDev.me) >-< View my portfolio, and my services here!
 
 ## My Github Stats .-.
 ![Mads Github Stats](https://github-readme-stats.vercel.app/api?username=MadDoesGithub&show_icons=true&theme=dracula)  
 ![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs?username=MadDoesGithub&show_icons=true&locale=en&layout=compact&theme=dracula)
 
-## Projects i'm currently working on :o
+## Projects i'm currently working on ♡
 
 > coding a discord bot, Madison!
 
-> Running a hosting company
+> Owner of MadHosting.tech
 
-> Actively learning Javascript, and PHP
-
-> Coding some simple Java plugins
+> Actively learning Javascript and Java
 
 > Doing 3D work
 
