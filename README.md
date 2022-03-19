@@ -1,4 +1,3 @@
-<img src="https://github.com/MadDoesGithub/MadDoesGithub/blob/master/text.svg"/>
 ### Hola 👋, I'm Mad!
 [![Website](https://img.shields.io/website?label=MadTheDev.me&style=for-the-badge&url=https://MadTheDev.me)](https://MadTheDev.me) >-< View my portfolio, and my services here!
 
