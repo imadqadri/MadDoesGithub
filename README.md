@@ -4,7 +4,7 @@
 I spend most of my time working on https://madhosting.tech, or in Figma, designing projects for commission and personal projects.
 
 🍰 Tools I use, and learning
-- Courses on Networking
+- Networking Courses
 - Virtualization, Docker, Kubernetes
 - System Administration (Ubunutu, Debian Linux)
 - Cloud Computing (Azure, S3, Private Clouds)
