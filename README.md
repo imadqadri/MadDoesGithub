@@ -1,7 +1,7 @@
 # Heyo, I'm Imad 🍂
 .. but go by Mad in the online world. Digital art, and tech enthusiast.
 
-I spend most of my time working on https://madhosting.tech, or in Figma, designing projects for commission and personal projects.
+I spend most of my time working on https://berrybyte.net, or in Figma, designing projects for commission and personal projects.
 
 🍰 Tools I use, and learning
 - Networking Courses
@@ -22,5 +22,5 @@ I spend most of my time working on https://madhosting.tech, or in Figma, designi
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=MadDoesGithub&show_icons=true&theme=dracula" alt="AnhellO :: Profile Stats" /></p>
 
-### contact at [imad@madhosting.tech](mailto:imad@madhosting.tech)
-### Made with 💗 by [Mad](https://madhosting.tech)
+### contact at [imad@berrybyte.net](mailto:imad@berrybyte.net)
+### Made with 💗 by [Mad](https://berrybyte.net)
