@@ -6,7 +6,7 @@ I spend most of my time working on https://berrybyte.net, or in Figma, designing
 🍰 Tools I use, and learning
 - Networking Courses
 - Virtualization, Docker, Kubernetes
-- System Administration (Ubunutu, Debian Linux)
+- System Administration (Ubuntu, Debian Linux, RHEL)
 - Cloud Computing (Azure, S3, Private Clouds)
 - Node, React, Tailwind
 
