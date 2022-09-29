@@ -1,4 +1,4 @@
-hiya, digital artist, tech enthusiast, enjoys netflix & books :heart: 
+Heya, digital artist, tech enthusiast, enjoys netflix & books :heart: 
 
 I spend most of my time working infrastructure and business management, with digital art in Figma & Blender. 
 
